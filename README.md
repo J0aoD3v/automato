@@ -2,6 +2,8 @@
 
 Esta ferramenta permite a execução de um Autômato Finito Determinístico (AFD) em um conjunto de entradas e geração de resultados no arquivo de saída.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CnjaKpa8_ew" frameborder="0" allowfullscreen></iframe>
+
 ## Uso
 
 ### Pré-requisitos
