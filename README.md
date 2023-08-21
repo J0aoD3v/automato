@@ -4,7 +4,8 @@ Esta ferramenta permite a execução de um Autômato Finito Determinístico (AFD
 
 Este é um vídeo demonstrativo da implementação de um autômato em Python. O vídeo mostra o funcionamento do autômato e como ele é implementado.
 
-[![Demonstração do Autômato em Python](https://img.youtube.com/vi/CnjaKpa8_ew/0.jpg | width=320)](https://www.youtube.com/watch?v=CnjaKpa8_ew)
+[![Demonstração do Autômato em Python](https://img.youtube.com/vi/CnjaKpa8_ew/0.jpg)](https://www.youtube.com/watch?v=CnjaKpa8_ew)
+<img src="https://img.youtube.com/vi/CnjaKpa8_ew/0.jpg" width="640" height="360">
 
 ## Uso
 
