@@ -2,7 +2,7 @@
 
 Esta ferramenta permite a execução de um Autômato Finito Determinístico (AFD) em um conjunto de entradas e geração de resultados no arquivo de saída.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CnjaKpa8_ew" frameborder="0" allowfullscreen></iframe>
+[![Demonstração do Autômato em Python](https://img.youtube.com/vi/CnjaKpa8_ew/0.jpg)](https://www.youtube.com/watch?v=CnjaKpa8_ew)
 
 ## Uso
 
